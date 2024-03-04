@@ -2,7 +2,7 @@
 
 👀 I’m interested in art, food and tech.
 
-🌱 I’m currently learning Ruby.
+🌱 I’m currently learning Elixir.
 
 💞️ I’m looking to collaborate on new projects.
 
